@@ -1,10 +1,9 @@
 Hi 👋 My name is Gonca Bal
 ==========================
 
-Backend Developer
+Software Developer
 -----------------
 
-Java, Spring..
 
 ### Skills
 
