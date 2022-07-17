@@ -61,9 +61,7 @@
 
 <br/>  
 
-<details><summary> Recent Blog Posts </summary><!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END --></details>  
+
 
 <br/>  
 
