@@ -1,25 +1,79 @@
-Hi 👋 My name is Gonca Bal
-==========================
+<div align="center">
+<img src="https://raw.githubusercontent.com/GoncaBal/GoncaBal/main/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
+  
 
-Software Developer
------------------
+<div align="center">
+<img src="https://raw.githubusercontent.com/GoncaBal/GoncaBal/main/images/code.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+## <div align="center">I'm Gonca Bal</div>  
+  
+
+### <div align="center">Software Developer</div>  
+  
+
+<br/>  
 
 
-### Skills
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+</div>  
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/GoncaBal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gonca-bal-3958b9127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@goncabal94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<br/>  
 
 
-<b>My GitHub Stats</b>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/GoncaBal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/goncabal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/goncabal94" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<a href="http://www.github.com/GoncaBal"><img src="https://github-readme-stats.vercel.app/api?username=GoncaBal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GoncaBal's GitHub stats" /></a>
+<br/>  
 
-<a href="https://github.com/GoncaBal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaBal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoncaBal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaBal&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GoncaBal&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
