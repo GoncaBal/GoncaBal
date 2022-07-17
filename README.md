@@ -56,10 +56,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
+  
 
 <br/>  
 
@@ -77,3 +75,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
